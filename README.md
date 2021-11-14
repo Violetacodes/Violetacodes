@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Violetacodes
 - 👀 I’m interested in front-end web developing, nature, marketing, AI
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Bootstrap
+- 🌱 I’m currently learning React/Redux, Node js.
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Bootstrap, GSAP. 
 - 📫 How to reach me via email missviolets13@gmail.com 
 
 <!---
